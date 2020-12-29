@@ -1,0 +1,6 @@
+neue packages:
+pip install optuna
+pip install imbalanced_learn
+pip install pandas
+pip install seaborn
+pip install scikit-image
