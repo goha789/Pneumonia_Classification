@@ -1,6 +1,10 @@
 neue packages:
 pip install optuna
 pip install imbalanced_learn
+(conda install -c conda-forge imbalanced-learn)
 pip install pandas
 pip install seaborn
 pip install scikit-image
+
+29.12.2020
+imgaug
